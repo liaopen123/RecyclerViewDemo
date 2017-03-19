@@ -1,8 +1,10 @@
-package com.example.liaopenghui.recyclerviewdemo;
+package com.example.liaopenghui.recyclerviewdemo.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
+
+import com.example.liaopenghui.recyclerviewdemo.R;
 
 import java.util.ArrayList;
 
